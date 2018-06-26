@@ -41,9 +41,9 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "아쿠아시리즈",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<head>\n    <title>아쿠아시리즈</title>\n    <meta property=\"og:url\" content=\"https://hjy2815.github.io/aqua/\">\n    <meta property=\"og:title\" content=\"아쿠아시리즈\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/X7XQX5p.jpg\">\n    <meta property=\"og:description\" content=\"피부고민해결을 위한 최적의 솔루션 제품을 제공해드립니다.\">\n    <meta name=\"description\" content=\"피부고민해결을 위한 최적의 솔루션 제품을 제공해드립니다.\">\n    <meta name=\"keywords\" content=\"피부고민해결을 위한 최적의 솔루션 제품을 제공해드립니다.\">\n</head>",
         "footer_custom": "",
         "html_before": ""
       },
