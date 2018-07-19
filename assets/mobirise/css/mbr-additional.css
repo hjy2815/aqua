@@ -1259,69 +1259,10 @@ body {
     width: 100% !important;
   }
 }
-.cid-qYf4qopmQX {
-  padding-top: 30px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-qYf4qopmQX .social-media {
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  padding-right: 4rem;
-}
-.cid-qYf4qopmQX .social-media ul {
-  margin: 0;
-  padding: 0;
-  margin-bottom: 8px;
-}
-.cid-qYf4qopmQX .social-media ul li {
-  padding: 4px;
-  display: inline-block;
-}
-.cid-qYf4qopmQX .logo-section {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  padding-left: 4rem;
-}
-.cid-qYf4qopmQX .icon-transition span {
-  color: #ffffff;
-  display: block;
-  padding: 0.1rem 0.9rem;
-  height: 4em;
-  line-height: 4em;
-  border-radius: 50%;
-  background-color: #ffffff;
-  width: 4em;
-  -webkit-transition: all 0.3s ease-out 0s;
-  transition: all 0.3s ease-out 0s;
-  font-size: 13px;
-}
-.cid-qYf4qopmQX .icon-transition span:hover {
-  background-color: #fe525b;
-}
-.cid-qYf4qopmQX .mbr-text {
-  color: #cccccc;
-}
-@media (max-width: 991px) {
-  .cid-qYf4qopmQX .social-media {
-    justify-content: center;
-    padding-right: 0rem;
-  }
-  .cid-qYf4qopmQX .logo-section {
-    justify-content: center;
-    padding-left: 0rem;
-    margin-bottom: 1.5rem;
-  }
-  .cid-qYf4qopmQX .mbr-text {
-    margin-bottom: 1.5rem;
-  }
-}
 .cid-qW4I6kWCHj {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #b2ccd2;
+  background-color: #efefef;
 }
 .cid-qW4I6kWCHj .social-media {
   margin-top: 1.5rem;
